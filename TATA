@@ -1,0 +1,4 @@
+Data Cleaning:
+In the power query editor, removed negative values from unit price and quantity columns.
+Created a calculated measure of sales from unit price and quantity. 
+Created a dedicated calendar/date table using DAX.
